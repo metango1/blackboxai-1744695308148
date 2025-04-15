@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Markdown Tasks</string>
+    <string name="select_directory">Select Directory</string>
+    <string name="search_tasks">Search tasks...</string>
+    <string name="start_date">Start: %s</string>
+    <string name="due_date">Due: %s</string>
+    <string name="priority">Priority: %s</string>
+</resources>
